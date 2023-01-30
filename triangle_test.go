@@ -1,6 +1,6 @@
 package main
 
-import "testing"
+import ("testing")
 
 func TestTriangle(t *testing.T) {
 	triangle := Triangle{
